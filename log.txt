@@ -1,0 +1,16 @@
+lsd=AVoyM0pE
+email=gdyfgeyxgf
+pass=hfusugiu
+timezone=-390
+lgndim=eyJ3IjoxMzY2LCJoIjo3NjgsImF3IjoxMzY2LCJhaCI6NzI4LCJjIjoyNH0=
+lgnrnd=084822_2H_-
+lgnjs=1545328197
+ab_test_data=/ZMyMAMAZAAAAAAAAAAAAAAAAAAAAAAAMAAAAAAA///PAfAAAAJAAA
+locale=en_GB
+next=https://www.facebook.com/
+login_source=login_bluebar
+prefill_contact_point=
+prefill_source=
+prefill_type=
+skstamp=eyJyb3VuZHMiOjUsInNlZWQiOiJjZDgyNDE5MjlhMWJiN2RlN2JhMmEzYTA2MjNlMjNmNCIsInNlZWQyIjoiODcxMDBlMjVjMTIzOTI5YTYyNjU1ZGFhNTRiMDdlMjYiLCJoYXNoIjoiNjVlZmYxNDk5NDk2ODM5ZjAyODBjZmExYzQxNzUxNDMiLCJoYXNoMiI6ImQ3YTFkNjQ3ODViMTFiMjdlMjljNjlkM2YyZTdlMmRjIiwidGltZV90YWtlbiI6ODY0OTksInN1cmZhY2UiOiJsb2dpbiJ9
+
